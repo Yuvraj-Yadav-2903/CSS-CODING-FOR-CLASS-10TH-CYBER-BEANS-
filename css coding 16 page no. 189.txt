@@ -1,0 +1,20 @@
+10.30 10:29 AM
+Css coding 16 page no. 189
+
+
+<HTML>
+<HEAD>
+<TITLE>border property</TITLE>
+<STYLE Type="text/css">
+Body{Background-color:#F5A9A9; Color:black;}
+</STYLE></HEAD>
+<BODY>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style:ridge; Border-color:blue;Border-width:thick;"> Think Big and Don't Listen To People Who Tell You It Can't Be Done. Life's Too Short To Think Small.</P>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style:groove; Border-color:yellow; Border-width:medium;"> We Become What We Think About.</P>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style: dashed; Border-color:green; Border-width:medium;"> A Clear Vision, Backed By Definite Plans, Gives You A Tremendous Feeling Of Confidence And Personal Power.</P>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style:dotted; Border-color:yellow; Border-width:thick;"> Success Does Not Consist in Never Making Mistakes, But in Never Making The Same One A Second Time.</P>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style:double; Border-color:red; Border-width:thick;"> Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.</P>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style:inset; Border-color:green; Border-width:thick;"> Even if you're on the right track, you'll get run over if you just sit there.</P>
+<P Style="Font-family:monotype corsiva; Font-size: 40px; Font-weight: normal; Border-style:outset; Border-color:blue; Border-width:thick;"> Nurture your mind with great thoughts. To believe in the heroic makes heroes.</P>
+</BODY></HTML>
+

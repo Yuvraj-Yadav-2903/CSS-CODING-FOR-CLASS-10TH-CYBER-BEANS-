@@ -1,0 +1,21 @@
+10.30 10:24 AM
+Css coding 14 page no. 
+ 
+
+<HTML>
+<HEAD>
+<TITLE>Using Background Properties</TITLE>
+<STYLE>
+P{text-align:Center;Color:Navy;}
+</STYLE>
+</HEAD>
+<BODY Style="background-image:url(Genji-III.jpg); background-color:FF9966; background-repeat:no-repeat;">
+<P Style="Font-family:Ravie Regular; Text-align:Center; Color:Navy; Font-size:25pt;">THE TALE OF<BR><Font size=100><STRONG>GENJI</STRONG></FONT></P>
+<P Style=Font-family:Georgia; Font-size:15pt;><B>Murasaki Shikibu</B><BR>
+<FONT Size=3pt>A Novel in Six Parts</FONT></P>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<P Style="Font-family:Fixedsys Regular; Text-align:Center;Color: White; Font-size:13pt; Background-color:ff3333;">
+The World's First Novel, written a thousand years ago and one of the enduring classics of world literature.</P>
+</BODY>
+</HTML>
+

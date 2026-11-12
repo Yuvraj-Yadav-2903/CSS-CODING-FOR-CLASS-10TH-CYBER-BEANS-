@@ -1,0 +1,19 @@
+10.30 10:15 AM
+Css coding 11 page no. 174. 
+
+
+<HTML>
+<HEAD>
+<STYLE>
+@Import url(style_imp.css);
+</STYLE>
+</HEAD>
+<BODY><PRE>
+Quit eating junk food and high-fat fast food. Your heart,
+brain, and overall health are harmed by foods high in
+saturated fats, salt, and cholesterol. There's no getting
+around it. You've got to replace them with healthy foods:
+lots of fruits, vegetables, fish, nuts, olive oil - what we call the Mediterranean diet. Eat like an Italian, a Spaniard, or a
+Greek! Enjoy!
+</PRE></BODY></HTML>
+

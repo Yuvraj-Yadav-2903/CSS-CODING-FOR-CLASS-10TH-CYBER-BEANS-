@@ -1,0 +1,18 @@
+10.30 10:26 AM
+Css coding 15 page no. 186
+
+
+<HTML>
+<HEAD>
+<TITLE>Margin Properties</TITLE>
+<STYLE>
+P {Margin-top:50px; Background-color:#E3F6CE; Font-size: 30px;}
+BODY{Background-color:#FACC2E}
+</STYLE>
+</HEAD>
+<BODY>
+<P> Your attitude, not your aptitude, will determine your altitude.</P>
+<P Style="Font-family:Monotype corsiva; Font-size: 30px; font-weight: normal; Margin-top:100px;">
+The positive attitude causes a chain reaction of positive thoughts, events, and outcomes. It is a catalyst and it sparks extraordinary results.</P>
+</BODY></HTML>
+

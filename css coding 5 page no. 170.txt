@@ -1,0 +1,22 @@
+10.30 9:39 AM
+Css coding 5 page no. 170
+
+
+<HTML>
+<HEAD>
+<TITLE>Grouping elements with class selector</TITLE>
+<STYLE Type = "text/css">
+.my_class
+{
+color:red;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<H1 class = "my_class"> Class Selector </H1>
+<P class = "my_class"> Grouping elements with the class attribute</P>
+</BODY>
+</HTML>
+
+
+

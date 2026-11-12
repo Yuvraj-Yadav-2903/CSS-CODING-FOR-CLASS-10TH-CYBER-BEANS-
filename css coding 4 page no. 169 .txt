@@ -1,0 +1,17 @@
+10.30 9:38 AM
+Css coding 4 page no. 169
+
+
+<HTML>
+<HEAD>
+<TITLE> Type Selector </TITLE>
+<STYLE Type = "text/css">
+H1{font-weight:bold;Font-family:arial;Color:red;}
+P{Color:green;Font-size:20px;}
+</STYLE>
+</HEAD>
+<BODY> <H1> Type Selector </H1>
+<P> Using Type Selector in CSS</P></BODY></HTML>
+
+
+

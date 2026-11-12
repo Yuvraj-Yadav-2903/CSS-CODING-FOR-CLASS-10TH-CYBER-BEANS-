@@ -1,0 +1,31 @@
+10.30 10:19 AM
+Css coding 13 page no. 182
+
+
+
+<HTML>
+<HEAD>
+<TITLE>text properties</TITLE>
+<STYLE Type="text/css">
+BODY{Color:gray}
+P{Font-weight:bold;Text-indent:30px;Line-height:1.5;}
+H2{Text-align:Center;Text-decoration:Underline;Text-transform:Capitalize;Word-spacing:5px;}
+H1{Font-family:Georgia;Text-align:Center;}
+H3{Text-align:Center;Color:Red;Letter-spacing:5px;}
+</STYLE></HEAD>
+<BODY Bgcolor=black>
+<IMG Src="first_car.jpg" Height="50%" Width="50%" Align="Left">
+<H2>world's first automobile</H2>
+<H1>The Benz Patent-Motorwagen N1</H1>
+<H3>Specifications</H3>
+<TABLE Border=2 style=color:yellow; align=center>
+<TR> <TD>Weight</TD> <TD>265 kilograms</TD> </TR>
+<TR> <TD>Maximum speed</TD> <TD>16 kmph</TD> </TR>
+<TR> <TD>Engine</TD> <TD>Water Cooled</TD> </TR>
+</TABLE><BR><BR><HR Size=5 Color="Cyan">
+<P>The Benz Patent-Motorwagen N 1, the first car in the world, was built by German Engineer and Inventor Karl Benz.</P>
+<P>In 1906, Karl Benz donated his car to the German Museum in Munich, Germany.</P>
+<P>In 1936, three copies of the car were built for the Mercedes Benz Museum, the Museum of Technology in Vienna and the Transport Museum in Dresden.</P>
+<HR Size=5 Color="Cyan"></BODY></HTML>
+
+

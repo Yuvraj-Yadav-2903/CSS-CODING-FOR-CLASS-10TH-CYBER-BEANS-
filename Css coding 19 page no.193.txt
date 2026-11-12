@@ -1,0 +1,31 @@
+10.30 10:36 AM
+Css coding 19 page no. 193
+
+
+<HTML>
+<HEAD><TITLE>Outline Property</TITLE></HEAD>
+<STYLE Type="text/css">
+BODY{Background-color:lightyellow; Color:black;}
+P{Font-family:Lucida handwriting; Font-size:20px;}
+</STYLE>
+<P Style="Outline-style:dashed; Outline-color:green; Outline-width:thick;">
+Negative Mind never produces positive
+results.</P><BR>
+<P Style="Outline-style:dotted; Outline-color:blue; Outline-width:thick;">
+It is better to be melted in feelings than to be frozen in differences.</P><BR>
+<P Style="Outline-style:solid; Outline-color:red; Outline-width:thick;">
+Success only comes when our dreams get bigger than our excuses.</P><BR>
+<P Style="Outline-style:ridge; Outline-color:yellow; Outline-width:thick;">
+If you have the courage to begin, you always have the courage to succeed.</P>
+<BR>
+<P Style="Outline-style:double; Outline-color:green; Outline-width:thick;">
+In life, choose to remain motivated and not manipulated.</P>
+<P Style="Outline-style:inset; Outline-color:blue; Outline-width:thick;">
+Success is building a bridge between I can't and I can.</P>
+<P Style="Outline-style:outset; Outline-color:red; Outline-width:thick;">
+Any knowledge which is not put into practice is like food which is not digested.</P>
+<P Style="Outline-style:groove; Outline-color:green; Outline-width:thick;">
+Always be with people who know your value and not your price.</P>
+</BODY>
+</HTML>
+

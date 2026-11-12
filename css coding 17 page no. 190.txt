@@ -1,0 +1,16 @@
+10.30 10:32 AM
+Css coding 17 page no. 190
+
+
+<HTML>
+<HEAD><TITLE>Width Porperty</TITLE>
+<STYLE>
+P{
+Width:100px;
+Height:100px;
+Background-color:yellow;
+}
+</STYLE></HEAD><BODY>
+<P>This element is using the width property.</P>
+</BODY></HTML>
+

@@ -1,0 +1,17 @@
+10.30 9:36 AM
+CSS coding 2 Page no. 167
+
+
+<HTML>
+<HEAD>
+<STYLE>P{Color: red}</STYLE>
+<STYLE>P{Color: blue}</STYLE>
+<STYLE>P{Color: green}</STYLE>
+</HEAD><BODY Bgcolor="Lightyellow">
+<H1>Tiger Reserves in India</H1>
+<P>Jim Corbett Tiger Reserve, Uttarakhand</P>
+<P>Ranthambore Tiger Reserve, Rajasthan</P>
+<P>Sunderban Tiger Reserve, West Bengal</P>
+<P>Bandhavgarh National Park, Madhya Pradesh</P>
+<P>Sariska Tiger Reserve, Rajasthan</P></BODY></HTML>
+

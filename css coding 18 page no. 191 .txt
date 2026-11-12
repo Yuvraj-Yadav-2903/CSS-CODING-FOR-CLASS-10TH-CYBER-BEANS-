@@ -1,0 +1,23 @@
+10.30 10:34 AM
+Css coding 18 page no. 191 
+
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<STYLE>
+IMG {
+float: left;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<H1>Font color="green">The Float Property</FONT></H1>
+<P>In this example, the image will float to the left side of the text, and the text in the paragraph will wrap around the image.</P>
+<P><IMG src="explorer.jpg" border=1 style="width:170px; height:170px; margin-right:15px;">
+A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web. Each individual web page, image, and video is identified by a distinct Uniform Resource Locator (URL), enabling browsers to retrieve these resources from a web server and display them on the user's device.
+A web browser is not the same thing as a search engine, though the two are often confused. For a user, a search engine is just a website, such as google.com, that stores searchable data about other websites. But to connect to a website's server and display its web pages, a user needs to have a web browser installed on their device.
+The most popular browsers are Chrome, Firefox, Safari, Internet Explorer, and Edge.
+</P>
+</BODY></HTML>
+

@@ -1,0 +1,15 @@
+10.30 9:49 AM
+Css coding 7 page no. 171 
+
+
+<HTML>
+<HEAD>
+<TITLE> Using Inline Styles </TITLE>
+</HEAD>
+<BODY>
+<P> We are using in-line style here on HR tag.</P>
+<HR Style="Width:50%; Height:50; Background-color:blue;">
+<A simple HR tag without style attribute
+<HR>
+</P></BODY></HTML>
+

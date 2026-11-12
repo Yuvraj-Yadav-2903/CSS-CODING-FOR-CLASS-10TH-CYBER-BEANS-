@@ -1,0 +1,22 @@
+10.30 9:58 AM
+Css coding 8 page no. 172 
+
+
+<HTML>
+<HEAD>
+<TITLE>Embedding Style Sheets</TITLE>
+<STYLE Type="text/css">
+TABLE,TD,TH{Border-style:Solid;Border-width:4;Border-color:Green;Border-collapse:Collapse}
+</STYLE>
+</HEAD>
+<BODY>
+<TABLE><TR><TH> Name </TH>
+<TH> Class </TH><TH> Address </TH></TR>
+<TR><TD> Reeta </TD><TD> 5th </TD><TD> Panchkula </TD></TR></TABLE>
+<HR><BR><BR>
+<TABLE><TR><TH> Name </TH>
+<TH> Marks </TH>
+</TR>
+<TR><TD> Reeta </TD><TD> 75 </TD>
+</TR></TABLE></BODY></HTML>
+

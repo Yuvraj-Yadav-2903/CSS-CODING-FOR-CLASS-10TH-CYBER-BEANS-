@@ -1,0 +1,21 @@
+10.30 10:17 AM
+Css coding 12 page no. 175 
+
+
+<HTML>
+<HEAD>
+<TITLE>CSS Table</TITLE>
+<LINK Rel="StyleSheet" Href="css_text.css" title="Basic">
+<LINK Rel="StyleSheet" Href="css_table.css" title="Basic">
+</HEAD>
+<BODY>
+<H1>My Table</H1>
+<TABLE>
+<TR>
+<TD>Web Page</TD>
+<TD>Web Site</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+

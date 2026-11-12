@@ -1,0 +1,15 @@
+10.30 10:01 AM
+Css coding 9 page no. 173 
+
+
+<HTML>
+<HEAD>
+<TITLE>Embedding Style Sheets</TITLE>
+<STYLE Type="text/css">
+/*
+Comment
+*/
+TABLE,TD,TH{Border-style:Solid;Border-width:4;Border-color:Green;Border-collapse:Collapse;}
+</STYLE>
+</HEAD></HTML>
+

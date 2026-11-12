@@ -1,0 +1,22 @@
+10.30 9:47 AM
+Css coding 6 page no. 170
+
+
+<HTML>
+<HEAD>
+<TITLE> ID Selector </TITLE>
+<STYLE type = "text/css">
+#my_id
+{
+color:red;
+}
+#my_font_id
+{
+font-style:oblique;
+}
+</STYLE>
+</HEAD><BODY>
+<H1 id="my_id"> ID Selector </H1>
+<P id="my_font_id"> Using ID Selector in CSS</P></BODY></HTML>
+
+

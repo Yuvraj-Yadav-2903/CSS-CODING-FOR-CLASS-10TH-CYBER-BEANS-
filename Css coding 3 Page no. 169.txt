@@ -1,0 +1,19 @@
+10.30 9:37 AM
+Css coding 3 Page no. 169
+
+
+<HTML>
+<HEAD>
+<TITLE> Universal Selector </TITLE>
+<STYLE Type = "text/css">
+*
+{
+Color:green;
+Font-size:20px;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<H1> Universal Selector </H1>
+<P> Using Universal Selector in CSS</P></BODY></HTML>
+

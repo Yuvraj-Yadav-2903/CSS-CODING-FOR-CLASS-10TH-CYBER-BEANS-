@@ -1,0 +1,15 @@
+10.30 10:04 AM
+Css coding 10 page no. 174 
+
+
+<HTML>
+<HEAD>
+<TITLE>External Style Sheet</TITLE>
+<LINK Rel = "Stylesheet" Href= "ext.css" Type="text/css">
+</HEAD><BODY>
+<H1>A newborn child can breathe and swallow at the same time for up to seven months.</H1>
+<H2> Human skull is made up of
+29 different bones
+</H2>
+</BODY></HTML>
+
